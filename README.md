@@ -22,7 +22,7 @@ python fastmri_to_dicom.py --filename fastmridatafile.h5
 
 > Note: In the process of converting the images to DICOM, the pixel arrays were flipped (up/down) to provide a view that was closer to DICOM orientation and assist with labeling. This should be taken into consideration when using the labels. 
 
-The labeling was performed by experienced radiologists using the [MD.ai](https://md.ai/).
+The labeling was performed by experienced radiologists using [MD.ai](https://md.ai/).
 
 # Working with the annotations
 
