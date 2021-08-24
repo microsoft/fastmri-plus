@@ -1,0 +1,14 @@
+name: fastmri-plus
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - h5py
+  - ipykernel
+  - ipython
+  - matplotlib
+  - numpy
+  - pandas
+  - pillow
+  - pydicom
+  - xmltodict
