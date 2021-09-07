@@ -1366,7 +1366,6 @@ file_brain_AXFLAIR_201_6002917,1,No,162,237,32,41,Nonspecific lesion
 file_brain_AXFLAIR_201_6002917,2,No,164,246,25,30,Nonspecific lesion
 file_brain_AXFLAIR_201_6002918,0,Yes,,,,,Normal for age
 file_brain_AXFLAIR_201_6002919,0,Yes,,,,,Global label: Small vessel chronic white matter ischemic change
-file_brain_AXFLAIR_201_6002919,0,Yes,,,,,Global label: Small vessel chronic white matter ischemic change
 file_brain_AXFLAIR_201_6002919,2,No,55,187,35,22,Encephalomalacia
 file_brain_AXFLAIR_201_6002919,3,No,57,189,31,26,Encephalomalacia
 file_brain_AXFLAIR_201_6002919,4,No,60,190,27,30,Encephalomalacia
@@ -1375,7 +1374,6 @@ file_brain_AXFLAIR_201_6002919,7,No,123,173,12,15,Lacunar infarct
 file_brain_AXFLAIR_201_6002919,8,No,124,176,15,14,Lacunar infarct
 file_brain_AXFLAIR_201_6002919,9,No,125,179,17,13,Lacunar infarct
 file_brain_AXFLAIR_201_6002919,10,No,120,185,18,8,Lacunar infarct
-file_brain_AXFLAIR_201_6002923,0,Yes,,,,,Global label: Small vessel chronic white matter ischemic change
 file_brain_AXFLAIR_201_6002923,0,Yes,,,,,Global label: Small vessel chronic white matter ischemic change
 file_brain_AXFLAIR_201_6002925,0,No,193,108,7,7,Nonspecific white matter lesion
 file_brain_AXFLAIR_201_6002925,0,No,124,110,8,10,Nonspecific white matter lesion
@@ -1423,8 +1421,6 @@ file_brain_AXFLAIR_201_6002934,0,No,95,20,124,31,Paranasal sinus opacification
 file_brain_AXFLAIR_201_6002934,1,No,111,25,94,20,Paranasal sinus opacification
 file_brain_AXFLAIR_201_6002934,2,No,127,30,65,10,Paranasal sinus opacification
 file_brain_AXFLAIR_201_6002938,0,Yes,,,,,Normal for age
-file_brain_AXFLAIR_201_6002939,0,Yes,,,,,Global label: Small vessel chronic white matter ischemic change
-file_brain_AXFLAIR_201_6002939,0,Yes,,,,,Global label: Small vessel chronic white matter ischemic change
 file_brain_AXFLAIR_201_6002939,0,Yes,,,,,Global label: Small vessel chronic white matter ischemic change
 file_brain_AXFLAIR_201_6002940,0,Yes,,,,,Motion artifact
 file_brain_AXFLAIR_201_6002941,0,Yes,,,,,Motion artifact
@@ -2102,7 +2098,6 @@ file_brain_AXFLAIR_202_6000508,11,No,33,185,30,36,Posttreatment change
 file_brain_AXFLAIR_202_6000508,12,No,71,117,27,44,Posttreatment change
 file_brain_AXFLAIR_202_6000508,13,No,76,129,19,30,Posttreatment change
 file_brain_AXFLAIR_202_6000511,0,Yes,,,,,Global label: Small vessel chronic white matter ischemic change
-file_brain_AXFLAIR_202_6000511,0,Yes,,,,,Global label: Small vessel chronic white matter ischemic change
 file_brain_AXFLAIR_202_6000511,0,No,106,142,8,17,Lacunar infarct
 file_brain_AXFLAIR_202_6000511,1,No,97,139,8,11,Lacunar infarct
 file_brain_AXFLAIR_202_6000517,0,No,114,154,69,67,Resection cavity
@@ -2246,7 +2241,6 @@ file_brain_AXFLAIR_202_6000561,0,Yes,,,,,Global label: Small vessel chronic whit
 file_brain_AXFLAIR_202_6000562,0,Yes,,,,,Normal for age
 file_brain_AXFLAIR_202_6000563,4,No,158,127,8,12,Nonspecific lesion
 file_brain_AXFLAIR_202_6000563,5,No,155,126,9,15,Nonspecific lesion
-file_brain_AXFLAIR_202_6000566,0,Yes,,,,,Global label: Small vessel chronic white matter ischemic change
 file_brain_AXFLAIR_202_6000566,0,Yes,,,,,Global label: Small vessel chronic white matter ischemic change
 file_brain_AXFLAIR_202_6000566,0,Yes,,,,,Motion artifact
 file_brain_AXFLAIR_202_6000566,0,No,113,61,12,23,Nonspecific lesion
@@ -2555,7 +2549,6 @@ file_brain_AXFLAIR_203_6000940,5,No,108,48,39,6,Paranasal sinus opacification
 file_brain_AXFLAIR_203_6000940,6,No,96,49,28,13,Paranasal sinus opacification
 file_brain_AXFLAIR_203_6000940,7,No,97,52,26,11,Paranasal sinus opacification
 file_brain_AXFLAIR_203_6000941,0,Yes,,,,,Global label: Small vessel chronic white matter ischemic change
-file_brain_AXFLAIR_203_6000941,0,Yes,,,,,Global label: Small vessel chronic white matter ischemic change
 file_brain_AXFLAIR_203_6000944,0,Yes,,,,,Normal for age
 file_brain_AXFLAIR_203_6000945,0,Yes,,,,,Global label: Small vessel chronic white matter ischemic change
 file_brain_AXFLAIR_203_6000945,4,No,184,148,5,5,Nonspecific white matter lesion
@@ -2594,40 +2587,8 @@ file_brain_AXFLAIR_203_6000957,1,No,109,111,26,37,Normal variant
 file_brain_AXFLAIR_203_6000957,1,No,115,80,5,11,Normal variant
 file_brain_AXFLAIR_203_6000957,2,No,109,105,19,37,Normal variant
 file_brain_AXFLAIR_203_6000958,0,Yes,,,,,Global label: Small vessel chronic white matter ischemic change
-file_brain_AXFLAIR_203_6000958,0,Yes,,,,,Global label: Small vessel chronic white matter ischemic change
-file_brain_AXFLAIR_203_6000958,0,Yes,,,,,Global label: Small vessel chronic white matter ischemic change
-file_brain_AXFLAIR_203_6000958,0,Yes,,,,,Global label: Small vessel chronic white matter ischemic change
-file_brain_AXFLAIR_203_6000958,0,Yes,,,,,Global label: Small vessel chronic white matter ischemic change
-file_brain_AXFLAIR_203_6000958,0,Yes,,,,,Global label: Small vessel chronic white matter ischemic change
-file_brain_AXFLAIR_203_6000958,0,Yes,,,,,Global label: Small vessel chronic white matter ischemic change
-file_brain_AXFLAIR_203_6000958,0,Yes,,,,,Global label: Small vessel chronic white matter ischemic change
-file_brain_AXFLAIR_203_6000958,0,Yes,,,,,Global label: Small vessel chronic white matter ischemic change
-file_brain_AXFLAIR_203_6000958,0,Yes,,,,,Global label: Small vessel chronic white matter ischemic change
-file_brain_AXFLAIR_203_6000959,0,Yes,,,,,Global label: Small vessel chronic white matter ischemic change
-file_brain_AXFLAIR_203_6000959,0,Yes,,,,,Global label: Small vessel chronic white matter ischemic change
-file_brain_AXFLAIR_203_6000959,0,Yes,,,,,Global label: Small vessel chronic white matter ischemic change
-file_brain_AXFLAIR_203_6000959,0,Yes,,,,,Global label: Small vessel chronic white matter ischemic change
-file_brain_AXFLAIR_203_6000959,0,Yes,,,,,Global label: Small vessel chronic white matter ischemic change
-file_brain_AXFLAIR_203_6000959,0,Yes,,,,,Global label: Small vessel chronic white matter ischemic change
-file_brain_AXFLAIR_203_6000959,0,Yes,,,,,Global label: Small vessel chronic white matter ischemic change
 file_brain_AXFLAIR_203_6000959,0,Yes,,,,,Global label: Small vessel chronic white matter ischemic change
 file_brain_AXFLAIR_203_6000960,0,Yes,,,,,Global label: Small vessel chronic white matter ischemic change
-file_brain_AXFLAIR_203_6000960,0,Yes,,,,,Global label: Small vessel chronic white matter ischemic change
-file_brain_AXFLAIR_203_6000960,0,Yes,,,,,Global label: Small vessel chronic white matter ischemic change
-file_brain_AXFLAIR_203_6000960,0,Yes,,,,,Global label: Small vessel chronic white matter ischemic change
-file_brain_AXFLAIR_203_6000960,0,Yes,,,,,Global label: Small vessel chronic white matter ischemic change
-file_brain_AXFLAIR_203_6000960,0,Yes,,,,,Global label: Small vessel chronic white matter ischemic change
-file_brain_AXFLAIR_203_6000960,0,Yes,,,,,Global label: Small vessel chronic white matter ischemic change
-file_brain_AXFLAIR_203_6000961,0,Yes,,,,,Global label: Small vessel chronic white matter ischemic change
-file_brain_AXFLAIR_203_6000961,0,Yes,,,,,Global label: Small vessel chronic white matter ischemic change
-file_brain_AXFLAIR_203_6000961,0,Yes,,,,,Global label: Small vessel chronic white matter ischemic change
-file_brain_AXFLAIR_203_6000961,0,Yes,,,,,Global label: Small vessel chronic white matter ischemic change
-file_brain_AXFLAIR_203_6000961,0,Yes,,,,,Global label: Small vessel chronic white matter ischemic change
-file_brain_AXFLAIR_203_6000961,0,Yes,,,,,Global label: Small vessel chronic white matter ischemic change
-file_brain_AXFLAIR_203_6000961,0,Yes,,,,,Global label: Small vessel chronic white matter ischemic change
-file_brain_AXFLAIR_203_6000961,0,Yes,,,,,Global label: Small vessel chronic white matter ischemic change
-file_brain_AXFLAIR_203_6000961,0,Yes,,,,,Global label: Small vessel chronic white matter ischemic change
-file_brain_AXFLAIR_203_6000961,0,Yes,,,,,Global label: Small vessel chronic white matter ischemic change
 file_brain_AXFLAIR_203_6000961,0,Yes,,,,,Global label: Small vessel chronic white matter ischemic change
 file_brain_AXFLAIR_203_6000963,0,No,144,178,12,11,Nonspecific white matter lesion
 file_brain_AXFLAIR_203_6000963,1,No,132,168,29,23,Nonspecific white matter lesion
@@ -2636,15 +2597,6 @@ file_brain_AXFLAIR_203_6000963,2,No,140,174,19,23,Nonspecific white matter lesio
 file_brain_AXFLAIR_203_6000963,2,No,122,128,15,16,Nonspecific lesion
 file_brain_AXFLAIR_203_6000963,3,No,148,187,13,10,Nonspecific white matter lesion
 file_brain_AXFLAIR_203_6000963,3,No,136,172,10,11,Nonspecific white matter lesion
-file_brain_AXFLAIR_203_6000964,0,Yes,,,,,Global label: Small vessel chronic white matter ischemic change
-file_brain_AXFLAIR_203_6000964,0,Yes,,,,,Global label: Small vessel chronic white matter ischemic change
-file_brain_AXFLAIR_203_6000964,0,Yes,,,,,Global label: Small vessel chronic white matter ischemic change
-file_brain_AXFLAIR_203_6000964,0,Yes,,,,,Global label: Small vessel chronic white matter ischemic change
-file_brain_AXFLAIR_203_6000964,0,Yes,,,,,Global label: Small vessel chronic white matter ischemic change
-file_brain_AXFLAIR_203_6000964,0,Yes,,,,,Global label: Small vessel chronic white matter ischemic change
-file_brain_AXFLAIR_203_6000964,0,Yes,,,,,Global label: Small vessel chronic white matter ischemic change
-file_brain_AXFLAIR_203_6000964,0,Yes,,,,,Global label: Small vessel chronic white matter ischemic change
-file_brain_AXFLAIR_203_6000964,0,Yes,,,,,Global label: Small vessel chronic white matter ischemic change
 file_brain_AXFLAIR_203_6000964,0,Yes,,,,,Global label: Small vessel chronic white matter ischemic change
 file_brain_AXFLAIR_205_6000159,3,No,131,198,24,22,Nonspecific lesion
 file_brain_AXFLAIR_205_6000159,4,No,137,192,30,26,Nonspecific lesion
@@ -2769,17 +2721,6 @@ file_brain_AXFLAIR_209_6001362,0,Yes,,,,,Normal for age
 file_brain_AXFLAIR_209_6001369,0,No,128,90,13,18,Nonspecific white matter lesion
 file_brain_AXFLAIR_209_6001369,1,No,124,90,11,17,Nonspecific white matter lesion
 file_brain_AXFLAIR_209_6001369,2,No,123,91,13,21,Nonspecific white matter lesion
-file_brain_AXFLAIR_209_6001374,0,Yes,,,,,Global label: Small vessel chronic white matter ischemic change
-file_brain_AXFLAIR_209_6001374,0,Yes,,,,,Global label: Small vessel chronic white matter ischemic change
-file_brain_AXFLAIR_209_6001374,0,Yes,,,,,Global label: Small vessel chronic white matter ischemic change
-file_brain_AXFLAIR_209_6001374,0,Yes,,,,,Global label: Small vessel chronic white matter ischemic change
-file_brain_AXFLAIR_209_6001374,0,Yes,,,,,Global label: Small vessel chronic white matter ischemic change
-file_brain_AXFLAIR_209_6001374,0,Yes,,,,,Global label: Small vessel chronic white matter ischemic change
-file_brain_AXFLAIR_209_6001374,0,Yes,,,,,Global label: Small vessel chronic white matter ischemic change
-file_brain_AXFLAIR_209_6001374,0,Yes,,,,,Global label: Small vessel chronic white matter ischemic change
-file_brain_AXFLAIR_209_6001374,0,Yes,,,,,Global label: Small vessel chronic white matter ischemic change
-file_brain_AXFLAIR_209_6001374,0,Yes,,,,,Global label: Small vessel chronic white matter ischemic change
-file_brain_AXFLAIR_209_6001374,0,Yes,,,,,Global label: Small vessel chronic white matter ischemic change
 file_brain_AXFLAIR_209_6001374,0,Yes,,,,,Global label: Small vessel chronic white matter ischemic change
 file_brain_AXFLAIR_209_6001374,6,No,179,149,6,9,Lacunar infarct
 file_brain_AXFLAIR_209_6001377,0,Yes,,,,,Normal for age
@@ -6957,7 +6898,6 @@ file_brain_AXFLAIR_202_6000571,11,No,120,93,15,17,Posttreatment change
 file_brain_AXFLAIR_202_6000571,12,No,121,91,16,18,Posttreatment change
 file_brain_AXFLAIR_202_6000571,13,No,122,89,17,19,Posttreatment change
 file_brain_AXFLAIR_202_6000571,14,No,124,87,18,20,Posttreatment change
-file_brain_AXFLAIR_202_6000573,0,Yes,,,,,Global label: Small vessel chronic white matter ischemic change
 file_brain_AXFLAIR_202_6000573,0,Yes,,,,,Global label: Small vessel chronic white matter ischemic change
 file_brain_AXFLAIR_202_6000573,7,No,86,128,8,9,Lacunar infarct
 file_brain_AXFLAIR_202_6000573,8,No,86,129,6,8,Lacunar infarct
